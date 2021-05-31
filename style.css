@@ -1,0 +1,17 @@
+h1{
+    color: cyan;
+}
+
+.header{
+    background-color: darkblue;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+}
+.sm{
+    display: flex;
+    justify-content:flex-end ;
+}
